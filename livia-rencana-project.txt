@@ -1,0 +1,6 @@
+RENCANA PROJECT WEB
+
+- Menentukan konsep
+- Membuat sketsa desain tampilan
+- Membuat tampilan login
+- Membuat database nya
