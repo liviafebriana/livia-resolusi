@@ -7,4 +7,8 @@ RENCANA PROJECT WEB
 - Membuat tampilan login
   (username, password)
 - Membuat database nya
-- Menguji coba 
+  (username, password)
+- Membuat koneksi dari database ke codingan
+- Membuat tampilan landing page 
+  (product, testimoni, info kontak)
+
