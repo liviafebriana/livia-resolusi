@@ -1,0 +1,9 @@
+RENCANA PROJECT WEB
+
+- Menentukan konsep
+  (ditentukan oleh semua anggota kelompok)
+- Membuat sketsa desain tampilan
+  (buat dibuku tampilan login nya)
+- Membuat tampilan login
+  (username, password)
+- Membuat database nya
