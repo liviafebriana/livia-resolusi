@@ -10,3 +10,4 @@ RENCANA PROJECT WEB
   (username, password)
 - Membuat koneksi dari database ke codingan
 - Membuat tampilan landing page 
+  (product, testimoni, info kontak)
